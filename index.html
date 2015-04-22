@@ -102,5 +102,28 @@
     </div><!-- .fluid_container -->
     
     <div style="clear:both; display:block; height:100px"></div>
+	
+	<script>
+jQuery(document).ready(function(){
+		jQuery.ajaxSetup({ cache: true });
+		jQuery('#txtFechaNac').datepicker({ dateFormat: "yy-mm-dd", changeYear: true });
+		jQuery.getScript('//connect.facebook.net/en_UK/all.js', function(){
+		FB.init({
+		  appId      : '822162021210177',
+		  status     : false,
+		  xfbml      : true,
+		  //version    : 'v1.0'
+		});
+		FB.getLoginStatus(loginStatus);
+		window.changeSize = function(){
+			FB.Canvas.setSize({width: jQuery('html').width(), height: jQuery('html').height()});
+		}
+d = setTimeout(function(){
+changeSize();
+}, 3000);
+		});//getScript	
+});
+	</script>
+	
 </body> 
 </html>
