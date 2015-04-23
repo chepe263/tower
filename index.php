@@ -9,8 +9,11 @@
   <body>
     
     <div class="row">
-      <div class="large-12 columns">
-        <img src="img/contraportadas/01-Towerbank-100paises-generico copy.jpg" />
+      <div class="large-12 columns" style="position:relative;">
+		<a href="main.php" style="position:relative;">
+			<img src="img/contraportadas/01-Towerbank-100paises-generico copy.jpg" />
+		</a>
+		<a href="main.php" class="button tower-verde" style="position: absolute;display: block;bottom: 26%;right: 12%;">¡Descubre!</a>
       </div>
     </div>
     
@@ -19,5 +22,11 @@
     <script>
       $(document).foundation();
     </script>
+	
+	<?php include "inc/footer.fb.php"; ?>
+	
+
+	
+	
   </body>
 </html>

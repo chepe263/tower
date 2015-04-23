@@ -1,17 +1,12 @@
 <!DOCTYPE html>
-<!-- Camera is a Pixedelic free jQuery slideshow | Manuel Masia (designer and developer) --> 
 <html> 
 <head> 
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" > 
-    <title>Camera | a free jQuery slideshow by Pixedelic</title> 
-    <meta name="description" content="Camera a free jQuery slideshow with many effects, transitions, adaptive layout, easy to customize, using canvas and mobile ready"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--///////////////////////////////////////////////////////////////////////////////////////////////////
-    //
-    //		Styles
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////////////////--> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1">   
     <link rel='stylesheet' id='camera-css'  href='js/vendor/camera/css/camera.css' type='text/css' media='all'> 
+	<link rel="stylesheet" href="css/foundation.css" />
+    <script src="js/vendor/modernizr.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
     <style>
 		body {
 			margin: 0;
@@ -61,6 +56,28 @@
  
 </head>
 <body>
+	<nav class="top-bar" data-topbar="" style="background-color: #1a3a8d;">
+		<ul class="title-area">
+		  <!-- Title Area -->
+		  <li class="name">
+			<h1>
+			  <a href="#">
+				Towerbank
+			  </a>
+			</h1>
+		  </li>
+		</ul>
+		<section class="top-bar-section">
+		  <!-- Right Nav Section -->
+		  <ul class="right">
+			<li class="divider"></li>
+			<li><a href="#">Mecanica</a></li>
+			<li class="divider"></li>
+			<li><a href="#">Términos y Condiciones</a></li>
+		  </ul>
+		</section>
+	</nav>
+
 	<div style="width: 78%; margin: 0 auto;">
 
 		<div>
@@ -101,25 +118,18 @@
 
     </div><!-- .fluid_container -->
     
-    <div style="clear:both; display:block; height:100px"></div>
-	
-	<script>
-jQuery(document).ready(function(){
-		jQuery.ajaxSetup({ cache: true });		
-		jQuery.getScript('//connect.facebook.net/en_UK/all.js', function(){
-		FB.init({
-		  appId      : '822162021210177',		  
-		  version: 'v2.3' 
-		});
-		//FB.getLoginStatus(loginStatus);
-
-			d = setTimeout(function(){
-				FB.Canvas.setSize();
-			}, 3000);
-		});//getScript	
-});
-//LLike home
-	</script>
-	
+    <div style="clear:both; display:block; height:10px"></div>
+	<script src="js/foundation.min.js"></script>
+<?php include "inc/footer.fb.php"; ?>
+	<div class="row">
+		<div class="large-12" style="background-color: #1a3a8d;">
+			&nbsp;
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+		</div>
+	</div>
 </body> 
 </html>
