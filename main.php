@@ -71,7 +71,7 @@
 		  <!-- Right Nav Section -->
 		  <ul class="right">
 			<li class="divider"></li>
-			<li><a href="main.php">Mecanica</a></li>
+			<li><a href="main.php">Mecánica</a></li>
 			<li class="divider"></li>
 			<li><a href="terms.php">Términos y Condiciones</a></li>
 		  </ul>
