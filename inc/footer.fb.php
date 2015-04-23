@@ -7,7 +7,7 @@ jQuery(document).ready(function(){
 		  version: 'v2.3' 
 		});
 		//FB.getLoginStatus(loginStatus);
-
+		FB.Canvas.scrollTo(0,0);
 			d = setTimeout(function(){
 				FB.Canvas.setSize();
 			}, 3000);
