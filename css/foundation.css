@@ -2059,8 +2059,8 @@ meta.foundation-mq-topbar {
       line-height: 2.8125rem;
       background: #1a3a8d; }
       .top-bar-section li:not(.has-form) a:not(.button):hover {
-        background-color: #555555;
-        background: #333333; }
+        background-color: #56b84b;
+        background: #56b84b; }
     .top-bar-section li.active:not(.has-form) a:not(.button) {
       padding: 0 0.9375rem;
       line-height: 2.8125rem;
