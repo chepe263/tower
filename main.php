@@ -61,7 +61,7 @@
 		  <!-- Title Area -->
 		  <li class="name">
 			<h1>
-			  <a href="#">
+			  <a href="index.php">
 				Towerbank
 			  </a>
 			</h1>
@@ -71,9 +71,9 @@
 		  <!-- Right Nav Section -->
 		  <ul class="right">
 			<li class="divider"></li>
-			<li><a href="#">Mecanica</a></li>
+			<li><a href="main.php">Mecanica</a></li>
 			<li class="divider"></li>
-			<li><a href="#">Términos y Condiciones</a></li>
+			<li><a href="terms.php">Términos y Condiciones</a></li>
 		  </ul>
 		</section>
 	</nav>
@@ -85,16 +85,9 @@
 		</div>
 	</div>
 	<div class="fluid_container">
-    	<h1>Pon el mundo en tus manos</h1>
-		<p>Participa en nuestra promocion</p>
-		<p>Pasos para participar</p>
-		<p>
-			<ul>
-				<li>Abre una cuenta</li>
-				<li>Consume con nuestras tarjetas</li>
-				<li>¡hay premios para ti!</li>
-			</ul>
-		</p>
+    	<h2>Pon el mundo en tus manos</h2>
+		<h3>Gánate un viaje para 2 personas</h3>
+		<p>Por cada producto de <strong>Banca Personal</strong> que adquieras hasta el 24 de junio de 2015, recibes 5 boletos electrónicos para el sorteo de un fabuloso viaje más USD$ 1,000 para gastos</p>
         <div class="camera_wrap camera_azure_skin" id="camera_wrap_1">
             <div data-src="img/001.jpg" data-portrait="true">
             </div>
@@ -121,7 +114,7 @@
     <div style="clear:both; display:block; height:10px"></div>
 	<script src="js/foundation.min.js"></script>
 <?php include "inc/footer.fb.php"; ?>
-	<div class="row">
+	<div class="xrow">
 		<div class="large-12" style="background-color: #1a3a8d;">
 			&nbsp;
 			<br />
