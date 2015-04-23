@@ -3,7 +3,7 @@ jQuery(document).ready(function(){
 		jQuery.ajaxSetup({ cache: true });		
 		jQuery.getScript('//connect.facebook.net/en_UK/all.js', function(){
 		FB.init({
-		  appId      : '822162021210177',		  
+		  appId      : '467333660090923',		  
 		  version: 'v2.3' 
 		});
 		//FB.getLoginStatus(loginStatus);
