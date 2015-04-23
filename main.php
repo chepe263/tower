@@ -86,7 +86,7 @@
 	</div>
 	<div class="fluid_container">
     	<h2>Pon el mundo en tus manos</h2>
-		<h3>Gánate un viaje para 2 personas</h3>
+		<h3>Gánate un viaje para 2 personas más $ 1,000 para gastos</h3>
 		<p>Por cada producto de <strong>Banca Personal</strong> que adquieras hasta el 24 de junio de 2015, recibes 5 boletos electrónicos para el sorteo de un fabuloso viaje más USD$ 1,000 para gastos</p>
         <div class="camera_wrap camera_azure_skin" id="camera_wrap_1">
             <div data-src="img/001.jpg" data-portrait="true">

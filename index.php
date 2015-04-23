@@ -13,7 +13,7 @@
 		<a href="main.php" style="position:relative;">
 			<img src="img/contraportadas/01-Towerbank-100paises-generico copy.jpg" />
 		</a>
-		<a href="main.php" class="button tower-azul" style="position: absolute;display: block;bottom: 24%;right: 6%;font-size: 2em;font-weight: bold; xtop:31%; xleft: 15%;">¡Descubre!</a>
+		<a href="main.php" class="button tower-azul" style="position: absolute;display: block;bottom: 24%;right: 6%;font-size: 2em;font-weight: bold; xtop:31%; xleft: 15%;">¡Click aquí!</a>
       </div>
     </div>
     

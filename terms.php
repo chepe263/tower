@@ -50,7 +50,8 @@
 	<div class="row term-special">
 		<div class="large-12 panel">
 			<h2>100 Lugares para ver</h2>
-			<p><i>El mundo esta en tus manos</i></p>
+			<!--p><i>El mundo esta en tus manos</i></p-->
+			<h3>Gánate un viaje para 2 personas más $ 1,000 para gastos</h3>
 			<br />
 			<br />
 			<h4>Mecanica de la promoción</h4>
