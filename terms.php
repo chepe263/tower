@@ -54,8 +54,8 @@
 			<h3>Gánate un viaje para 2 personas más $1,000 para gastos</h3>
 			<br />
 			<br />
-			<h4>Mecanica de la promoción</h4>
-			<p>Por cada producto de Banca Personal que se adquiera, recibe cinco (5) boletos electrónicos para el sorteo de un crucero para dos (2) personas a uno de los siguientes destinos: Capitales Bálticas, Islas Griegas, Gran Mediterráneo, Alaska o Hawái.<p>
+			<h4>Mecánica de la promoción</h4>
+			<p>Por cada producto de Banca Personal que se adquiera, recibe cinco (5) boletos electrónicos para el sorteo de un crucero para dos (2) personas a uno de los siguientes destinos: Capitales Bálticas, Islas Griegas, Gran Mediterráneo, Alaska o Hawaii.<p>
 			
 			
 			<h4>Duración de la Promoción</h4>
